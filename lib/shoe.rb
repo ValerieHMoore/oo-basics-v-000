@@ -1,5 +1,5 @@
 class Shoe
   def initialize(brand)
-    attr.reader
+    attr.reader:brand
     @brand = brand
 end
