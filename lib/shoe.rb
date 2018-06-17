@@ -18,8 +18,8 @@ class Shoe
   #   @material = material
   # end
   
-  def initialize(condition)
-    @condition = condition
-  end
+  # def initialize(condition)
+  #   @condition = condition
+  # end
   
 end
