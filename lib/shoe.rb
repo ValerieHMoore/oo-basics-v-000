@@ -5,23 +5,19 @@ class Shoe
     @brand = brand
   end
   
-  def brand
-    @brand = brand
-  end
-  
-  def color
+  def initialize(color)
     @color = color
   end
   
-  def size
+  def initialize(size)
     @size = size
   end
   
-  def material
+  def initialize(material)
     @material = material
   end
   
-  def condition
+  def initialize(condition)
     @condition = condition
   end
   
