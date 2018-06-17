@@ -6,17 +6,17 @@ class Shoe
     @brand = brand
   end
   
-  def initialize(color)
-    @color = color
-  end
+  # def initialize(color)
+  #   @color = color
+  # end
   
-  def initialize(size)
-    @size = size
-  end
+  # def initialize(size)
+  #   @size = size
+  # end
   
-  def initialize(material)
-    @material = material
-  end
+  # def initialize(material)
+  #   @material = material
+  # end
   
   def initialize(condition)
     @condition = condition
